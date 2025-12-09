@@ -1,2 +1,2 @@
-Application Version 1
-Basic project setup completed.
+Application Version 2
+Login feature added
