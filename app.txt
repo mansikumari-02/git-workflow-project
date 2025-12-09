@@ -1,0 +1,2 @@
+Application Version 1
+Basic project setup completed.
